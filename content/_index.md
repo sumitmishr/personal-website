@@ -6,7 +6,7 @@ description: This is my personal website. I am a PhD student at Giriya Universit
 
 image_left: true
 images:
-- img/teacat_booloo.PNG
+- img/teacat_booloo.jpg
 show_action_link: true
 show_social_links: true
 subtitle: A Hugo theme you'll want to hang out with
